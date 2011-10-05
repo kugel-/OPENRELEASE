@@ -84,5 +84,7 @@
 
 /* Enable the lgdtv video driver (src/video/lgdtv/\*.c) */
 #define SDL_VIDEO_DRIVER_LGDTV	1
+/* Enable directfb for staturn 7 platforms */
+//~ #define SDL_VIDEO_DRIVER_DIRECTFB 1
 
 #endif /* _SDL_config_lgdtv_h */

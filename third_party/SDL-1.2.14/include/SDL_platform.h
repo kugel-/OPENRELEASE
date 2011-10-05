@@ -107,4 +107,7 @@
 #define __WIN32__	1
 #endif
 
+/* hack */
+#define __LGDTV__ 1
+
 #endif /* _SDL_platform_h */
